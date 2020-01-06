@@ -38,5 +38,85 @@
         "name": "Finale",
         "img_url": "https://webviewapp.github.io/NghbrAlpha1/img/stage8.png",
         "description": "https://webviewapp.github.io/NghbrAlpha1/stage8.html"
+    },
+    {
+        "name": "Starting Tips",
+        "img_url": "https://webviewapp.github.io/NghbrAlpha1/img/stage1.png",
+        "description": "https://webviewapp.github.io/NghbrAlpha1/stage1.html"
+    },
+    {
+        "name": "Stage 1 : Walkthrough",
+        "img_url": "https://webviewapp.github.io/NghbrAlpha1/img/stage2.png",
+        "description": "https://webviewapp.github.io/NghbrAlpha1/stage2.html"
+    },
+    {
+        "name": "Stage 2 : Walkthrough",
+        "img_url": "https://webviewapp.github.io/NghbrAlpha1/img/stage3.png",
+        "description": "https://webviewapp.github.io/NghbrAlpha1/stage3.html"
+    },
+    {
+        "name": "Stage 3 : Walkthrough",
+        "img_url": "https://webviewapp.github.io/NghbrAlpha1/img/stage4.png",
+        "description": "https://webviewapp.github.io/NghbrAlpha1/stage4.html"
+    },
+    {
+        "name": "Stage 3 - How to get the red key?",
+        "img_url": "https://webviewapp.github.io/NghbrAlpha1/img/stage5.png",
+        "description": "https://webviewapp.github.io/NghbrAlpha1/stage5.html"
+    },
+    {
+        "name": "Stage 3 - How to get the green key?",
+        "img_url": "https://webviewapp.github.io/NghbrAlpha1/img/stage6.png",
+        "description": "https://webviewapp.github.io/NghbrAlpha1/stage6.html"
+    },
+    {
+        "name": "Stage 3 - How to get the basement access card?",
+        "img_url": "https://webviewapp.github.io/NghbrAlpha1/img/stage7.png",
+        "description": "https://webviewapp.github.io/NghbrAlpha1/stage7.html"
+    },
+    {
+        "name": "Finale",
+        "img_url": "https://webviewapp.github.io/NghbrAlpha1/img/stage8.png",
+        "description": "https://webviewapp.github.io/NghbrAlpha1/stage8.html"
+    },
+    {
+        "name": "Starting Tips",
+        "img_url": "https://webviewapp.github.io/NghbrAlpha1/img/stage1.png",
+        "description": "https://webviewapp.github.io/NghbrAlpha1/stage1.html"
+    },
+    {
+        "name": "Stage 1 : Walkthrough",
+        "img_url": "https://webviewapp.github.io/NghbrAlpha1/img/stage2.png",
+        "description": "https://webviewapp.github.io/NghbrAlpha1/stage2.html"
+    },
+    {
+        "name": "Stage 2 : Walkthrough",
+        "img_url": "https://webviewapp.github.io/NghbrAlpha1/img/stage3.png",
+        "description": "https://webviewapp.github.io/NghbrAlpha1/stage3.html"
+    },
+    {
+        "name": "Stage 3 : Walkthrough",
+        "img_url": "https://webviewapp.github.io/NghbrAlpha1/img/stage4.png",
+        "description": "https://webviewapp.github.io/NghbrAlpha1/stage4.html"
+    },
+    {
+        "name": "Stage 3 - How to get the red key?",
+        "img_url": "https://webviewapp.github.io/NghbrAlpha1/img/stage5.png",
+        "description": "https://webviewapp.github.io/NghbrAlpha1/stage5.html"
+    },
+    {
+        "name": "Stage 3 - How to get the green key?",
+        "img_url": "https://webviewapp.github.io/NghbrAlpha1/img/stage6.png",
+        "description": "https://webviewapp.github.io/NghbrAlpha1/stage6.html"
+    },
+    {
+        "name": "Stage 3 - How to get the basement access card?",
+        "img_url": "https://webviewapp.github.io/NghbrAlpha1/img/stage7.png",
+        "description": "https://webviewapp.github.io/NghbrAlpha1/stage7.html"
+    },
+    {
+        "name": "Finale",
+        "img_url": "https://webviewapp.github.io/NghbrAlpha1/img/stage8.png",
+        "description": "https://webviewapp.github.io/NghbrAlpha1/stage8.html"
     }
 ]
