@@ -6,52 +6,52 @@
             "description": "https://webviewapp.github.io/NghbrAlpha2/act1.html"
         },
         {
-            "name": "Stage 1 : Walkthrough",
+            "name": "Starting tips",
             "img_url": "https://webviewapp.github.io/NghbrAlpha2/image/10.png",
             "description": "https://webviewapp.github.io/NghbrAlpha2/act2.html"
         },
         {
-            "name": "Stage 2 : Walkthrough",
+            "name": "System requirements",
             "img_url": "https://webviewapp.github.io/NghbrAlpha2/image/Systemrequirements.png",
             "description": "https://webviewapp.github.io/NghbrAlpha2/act3.html"
         },
         {
-            "name": "Stage 3 : Walkthrough",
+            "name": "Controls",
             "img_url": "https://webviewapp.github.io/NghbrAlpha2/image/Controls.png",
             "description": "https://webviewapp.github.io/NghbrAlpha2/act4.html"
         },
         {
-            "name": "Stage 3 - How to get the red key?",
+            "name": "Act 1",
             "img_url": "https://webviewapp.github.io/NghbrAlpha2/image/act1.png",
             "description": "https://webviewapp.github.io/NghbrAlpha2/act5.html"
         },
         {
-            "name": "Stage 3 - How to get the green key?",
+            "name": "Act 2",
             "img_url": "https://webviewapp.github.io/NghbrAlpha2/image/act2.png",
             "description": "https://webviewapp.github.io/NghbrAlpha2/act6.html"
         },
         {
-            "name": "Stage 3 - How to get the basement access card?",
+            "name": "Act 3",
             "img_url": "https://webviewapp.github.io/NghbrAlpha2/image/act3.png",
             "description": "https://webviewapp.github.io/NghbrAlpha2/act7.html"
         },
         {
-            "name": "Finale",
+            "name": "Act3: How to get the red key?",
             "img_url": "https://webviewapp.github.io/NghbrAlpha2/image/act4.png",
             "description": "https://webviewapp.github.io/NghbrAlpha2/act8.html"
         },
         {
-            "name": "Finale",
+            "name": "Act3: How to get the green key?",
             "img_url": "https://webviewapp.github.io/NghbrAlpha2/image/act5.png",
             "description": "https://webviewapp.github.io/NghbrAlpha2/act9.html"
         },
         {
-            "name": "Finale",
+            "name": "Act3: How to get the basement access card?",
             "img_url": "https://webviewapp.github.io/NghbrAlpha2/image/act6.png",
             "description": "https://webviewapp.github.io/NghbrAlpha2/act10.html"
         },
         {
-            "name": "Finale",
+            "name": "Finale, Hello Neighbor Ending",
             "img_url": "https://webviewapp.github.io/NghbrAlpha2/image/finale.png?resize=300,450",
             "description": "https://webviewapp.github.io/NghbrAlpha2/act11.html"
         },
